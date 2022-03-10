@@ -13,7 +13,7 @@ void menu()
     {
         system("cls");
         
-        cout << "****";
+        cout << "************************************";
         cout << "Bienvenido a Cafeteria de Christian";
         cout << "************************************";
         cout << endl;
