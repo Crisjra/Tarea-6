@@ -15,7 +15,7 @@ void menu()
         
         cout << "****";
         cout << "Bienvenido a Cafeteria de Christian";
-        cout << "****";
+        cout << "************************************";
         cout << endl;
         cout << endl;
         cout << endl;
