@@ -3,7 +3,7 @@
 using namespace std;
 
 double subtotal, subImpuesto, total;
-const double impuesto = 0.15;
+const double impuesto = .15;
 string listaProductos;
 
 void agregarProducto(string descripcion, int cantidad, double precio)

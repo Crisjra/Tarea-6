@@ -1,9 +1,11 @@
 #include <iostream>
+#include "producto.h"
+#include "factura.h"
 
 using namespace std;
 
-extern void productos(int opcion);
-extern void imprimirFactura();
+//extern void productos(int opcion);
+//extern void imprimirFactura();
 
 void menu()
 {
@@ -13,9 +15,9 @@ void menu()
     {
         system("cls");
         
-        cout << "************************************";
+        cout << "****";
         cout << "Bienvenido a Cafeteria de Christian";
-        cout << "************************************";
+        cout << "***********************************";
         cout << endl;
         cout << endl;
         cout << endl;
